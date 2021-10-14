@@ -1,0 +1,8 @@
+public class CashRegisterTest {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner();
+        Keyboard keyboard = new Keyboard();
+        scanner.scannedUPCCode(385322);
+        keyboard.setUPCCode(285302);
+    }
+}
