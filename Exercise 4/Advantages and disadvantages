@@ -1,0 +1,6 @@
+Advantages of approach in question 1: 
+The advantages of this approach are that it follows the traditional MVC model, which means the application is easy to mantain, it provides an easy way to update and sustain
+thee application, and it allows developers to work in an efficient manner. 
+
+Disadvantages of approach in question 1: 
+The main disadvantages of this approach are that the updates can make the system complex, and each component of the MVC model is not versatile. 
